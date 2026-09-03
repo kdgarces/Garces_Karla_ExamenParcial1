@@ -47,7 +47,7 @@ Python ejecuta automáticamente la implementación correspondiente al tipo real 
 4. Instalar Pydantic versión 2 con el siguiente comando:
 `python -m pip install "pydantic>=2,<3"` 
 5. Ejecutar el programa con el siguiente comando:
-`python SistemaBancarioSemana3.py`
+`python Garces_Karla_ExamenParcial1.py`
 6. Seguir las instrucciones del menú para registrar un cliente, crear una cuenta y realizar operaciones bancarias.
 
 ## Ejemplos de funcionamiento
