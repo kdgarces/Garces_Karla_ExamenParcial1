@@ -55,8 +55,6 @@ Interés mensual del 2 %: $18.
 
 Saldo final: $918.
 
-
-
 - Cuenta corriente
 
 Saldo inicial: $1,000.
