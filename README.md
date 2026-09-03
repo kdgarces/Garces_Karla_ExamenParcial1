@@ -1,5 +1,3 @@
-# Garces_Karla_ExamenParcial1
-
 ## Descripción
 Este proyecto consiste en la creación de un sistema bancario que permite registrar clientes, con sus respectivas cuentas de ahorros o corrientes y realizar operaciones bancarias básicas mediante un menú interactivo. El sistema aplica conceptos de programación orientada a objetos, como encapsulación, herencia, composición, clases abstractas, sobrescritura de métodos y polimorfismo. También utiliza Pydantic para validar los datos ingresados por el usuario.
 
