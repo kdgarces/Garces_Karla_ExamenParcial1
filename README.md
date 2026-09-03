@@ -43,15 +43,15 @@ Desarrollar una aplicación bancaria funcional que permita administrar clientes,
 
 ## Ejemplos de funcionamiento
 
-*Cuenta de ahorros
+* Cuenta de ahorros
 Saldo inicial: $1,000.
 Retiro: $100.
 Saldo después del retiro: $900.
 Interés mensual del 2 %: $18.
 Saldo final: $918.
 
-*Cuenta corriente
-Saldo inicial: $1,000.
+* Cuenta corriente
+Saldo inicial: $1,000. /n
 Comisión mensual: $5.
 Saldo después de la comisión: $995.
 
