@@ -36,7 +36,7 @@ Desarrollar una aplicación bancaria funcional que permita administrar clientes,
 2. Verificar que Python 3.10 o una versión posterior esté instalado.
 3. Abrir una terminal en la carpeta donde se encuentra el proyecto.
 4. Instalar Pydantic versión 2 con el siguiente comando:
-`python -m pip install "pydantic>=2,<3` 
+`python -m pip install "pydantic>=2,<3"` 
 5. Ejecutar el programa con el siguiente comando:
 `python SistemaBancarioSemana3.py`
 6. Seguir las instrucciones del menú para registrar un cliente, crear una cuenta y realizar operaciones bancarias.
@@ -53,17 +53,17 @@ Saldo después del retiro: $900.
 
 Interés mensual del 2 %: $18.
 
-Saldo final: $918.
+Saldo final: $918. <br>
 
 - Cuenta corriente
 
-Saldo inicial: $1,000.
+Saldo inicial: $2,000.
 
 Comisión mensual: $5.
 
-Saldo después de la comisión: $995.
+Saldo después de la comisión: $1995.
 
-Un retiro superior a $1,000 es rechazado por superar el límite permitido.
+Un retiro superior a $1,200 es rechazado por superar el límite permitido.
 
 ## Lenguaje
 
