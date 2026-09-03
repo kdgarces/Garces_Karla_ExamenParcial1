@@ -54,7 +54,6 @@ Saldo después del retiro: $900.
 Interés mensual del 2 %: $18.
 
 Saldo final: $918. 
-<br>
 
 - Cuenta corriente
 
